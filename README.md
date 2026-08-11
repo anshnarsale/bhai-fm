@@ -2,6 +2,8 @@
 
 ### *The ultimate Salman Khan music experience.* 🕶️🎶
 
+[🎧 **Live Demo**](https://bhaifm.netlify.app) • [💻 **Source Code**](https://github.com/anshnarsale/bhai-fm)
+
 **Bhai-FM** is a modern, cinematic web-based music player built exclusively around the music and movie songs associated with **Salman Khan**.
 
 Designed with **React + Vite**, Bhai-FM focuses on creating an immersive music-listening experience with a clean interface, smooth interactions, and a cinematic visual atmosphere.
