@@ -41,10 +41,6 @@ Pick an era, choose a song, press play, and let the music do the rest.
 <img width="1919" height="869" alt="image" src="https://github.com/user-attachments/assets/90525362-1253-42b5-aee6-44b684573909" />
 
 
-<p align="center">
-  <img src="public/artwork/bg1.png" alt="Bhai-FM Preview" width="800">
-</p>
-
 ---
 
 ## 🛠️ Built With
