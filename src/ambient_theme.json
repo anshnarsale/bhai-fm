@@ -1,0 +1,5 @@
+{
+  "dynamic_ambient_blur": "60px",
+  "opacity": 0.4,
+  "transition_duration_ms": 800
+}
