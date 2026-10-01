@@ -1,0 +1,4 @@
+{
+  "prefetch_at_percent": 85,
+  "buffer_chunk_kb": 512
+}
