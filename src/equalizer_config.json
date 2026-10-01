@@ -1,0 +1,5 @@
+{
+  "default_preset": "bass_boost",
+  "low_shelf_gain_db": 6,
+  "frequency_hz": 120
+}
