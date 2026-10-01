@@ -1,0 +1,5 @@
+{
+  "fftSize": 256,
+  "smoothingTimeConstant": 0.8,
+  "visualizer": "bars"
+}
